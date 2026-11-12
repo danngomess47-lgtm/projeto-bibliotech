@@ -5,7 +5,7 @@ Sistema de gestão e automação de biblioteca pública - Projeto Interdisciplin
 Repositório oficial do projeto desenvolvido para a disciplina de Projeto Interdisciplinar(AAP2 e 3) da **FATEC Barueri**
 
 ## 👥 Integrantes do Projeto
-- **Danilo de Castro Gomes** - RA: 209.078.251.104-2
+- **Danilo de Castro Gomes** -
 ---
 
 ## 🎯 Sobre o Projeto
