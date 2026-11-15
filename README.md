@@ -1,4 +1,4 @@
-# projeto-bibliotech
+# Projeto-Bibliotech
 Sistema de gestão e automação de biblioteca pública - Projeto Interdisciplinar Fatec Barueri.
 # 📚 BiblioTech LTDA - Sistema de Gestão para Bibliotecas Públicas
 
